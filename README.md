@@ -64,6 +64,19 @@ Git & Git LFS installed locally
 
 ---
 
+## Clone Repository & Download Assets
+
+# Clone the repository
+git clone [https://github.com/muhammadnofilmustufa36-cloud/fintech-fraud-analytics-powerbi.git](https://github.com/muhammadnofilmustufa36-cloud/fintech-fraud-analytics-powerbi.git)
+
+# Navigate into project directory
+cd fintech-fraud-analytics-powerbi
+
+# Pull heavy Git LFS assets (.pbix & .csv files)
+git lfs pull
+
+---
+
 
 ## 📂 Repository Structure
 
