@@ -19,6 +19,9 @@ Fraud Rate %: 11%
 High Risk Senders: 409K   
 Critical Risk Transactions: 128K  
 
+## 🌳 Root Cause Risk Breakdown
+Decomposition tree breaking down risk factors across Risk Category $\rightarrow$ Payment Channel $\rightarrow$ Merchant Category.
+
 ---
 
 
