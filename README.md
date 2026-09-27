@@ -22,7 +22,37 @@ Critical Risk Transactions: 128K
 ## 🌳 Root Cause Risk Breakdown
 Decomposition tree breaking down risk factors across Risk Category $\rightarrow$ Payment Channel $\rightarrow$ Merchant Category.
 
+## 📈 Total Fraud Exposure ($) by YearMonth
+Monthly trendline isolating loss spikes across 2023–2024
+
+## 📊 Gateway Risk Matrix
+Matrix aggregating High Risk vs. Normal transaction volumes across ACH, card, UPI, and wire_transfer.
+
+## 🍩 Transaction Volume by Merchant Category
+Donut breakdown across travel, retail, entertainment, grocery, online, utilities, and restaurant.
+
+## 🖼️ Page 2: Geographical Risk & Gateway Deep-Dive
+## 💳 KPI Header Cards
+Average Fraud Probability %: 36.6%
+Average Velocity Score: 10
+Avg Spending Deviation: 14%   
+Fraud Loss Share %: 30.8% 
+
+## 🌍 Global Risk Hotspots
+Interactive map pinpointing geographical risk concentrations in key markets (Berlin, Dubai, London, New York, Singapore, Sydney, Tokyo).
+
+## 📊 Gateway Risk Breakdown
+Comparative bar visual showing Avg Fraud Probability % (High Risk ~77.8% vs. Normal ~31.4%) across all major payment gateways.
+
+## 🗺️ Geographical Exposure by Gateway
+Comprehensive matrix mapping cross-border financial exposure per location against each transaction gateway.
+
 ---
+
+## 🛠️ Tech Stack & MethodologiesBusiness Intelligence & Analytics: 
+1) Power BI Desktop, DAX Metrics, Dimensional Modeling, Root Cause Analysis, Heatmaps   
+2) Data Engineering & ETL: Python 3.x, Pandas, Automated Logging & Error Handling   
+3) Version Control & LFS: Git, Git LFS (Large File Storage tracking ~1.7 GB .pbix and .csv assets)   
 
 
 ## 📂 Repository Structure
