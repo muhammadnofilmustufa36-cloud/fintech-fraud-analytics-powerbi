@@ -52,7 +52,17 @@ Comprehensive matrix mapping cross-border financial exposure per location agains
 ## 🛠️ Tech Stack & MethodologiesBusiness Intelligence & Analytics: 
 1) Power BI Desktop, DAX Metrics, Dimensional Modeling, Root Cause Analysis, Heatmaps   
 2) Data Engineering & ETL: Python 3.x, Pandas, Automated Logging & Error Handling   
-3) Version Control & LFS: Git, Git LFS (Large File Storage tracking ~1.7 GB .pbix and .csv assets)   
+3) Version Control & LFS: Git, Git LFS (Large File Storage tracking ~1.7 GB .pbix and .csv assets)
+
+---
+
+## 🚀 Getting Started & Local Setup
+Prerequisites
+Power BI Desktop
+
+Git & Git LFS installed locally
+
+---
 
 
 ## 📂 Repository Structure
