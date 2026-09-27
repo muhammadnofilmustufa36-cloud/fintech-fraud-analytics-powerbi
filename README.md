@@ -9,6 +9,17 @@ In high-volume FinTech environments, real-time transaction monitoring and histor
 
 ---
 
+## 📊 Dashboard Pages & Visual Highlights🖼️ 
+##Page 1: Executive Risk Overview
+💳 KPI Header CardsTotal
+Transaction Volume ($): $1.8Bn   
+Total Fraud Exposure ($): $553M   
+Fraud Rate %: 11%   
+High Risk Senders: 409K   
+Critical Risk Transactions: 128K  
+
+---
+
 
 ## 📂 Repository Structure
 
